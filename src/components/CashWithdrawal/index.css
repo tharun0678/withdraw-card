@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.home-bg {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.logo {
+  background-color: #c7d2fe;
+  text-align: center;
+  border-radius: 50px;
+  border-width: 0px;
+  color: #7c3aed;
+  padding: 30px;
+  margin-right: 25px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.withdraw-card {
+  background-color: #150b3e;
+  padding: 25px;
+  border-width: 0px;
+  border-radius: 7px;
+  min-width: 35vw;
+}
+.user-name {
+  color: #d4d2db;
+}
+.balance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.balance-description {
+  margin-top: 35px;
+}
+.balance-heading {
+  color: #585076;
+  font-weight: 500;
+}
+.balance {
+  color: #d4d2db;
+  font-size: 32px;
+}
+.inr {
+  color: #585076;
+  font-size: 12px;
+  font-weight: 500;
+}
+.withdraw-heading {
+  color: #d4d2db;
+  font-size: 22px;
+}
+.choosing-heading {
+  color: #585076;
+  font-weight: 500;
+}
